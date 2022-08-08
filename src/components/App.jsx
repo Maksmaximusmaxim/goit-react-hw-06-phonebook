@@ -10,6 +10,7 @@ export function App() {
       <h1>Contacts</h1>
       <Filter />
       <ContactList />
+      <p>hi</p>
     </div>
   );
 }
